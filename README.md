@@ -1,7 +1,7 @@
 # Project #: Project Name
 
 * Author: Your Name
-* Class: CS535 Section 1
+* Class: CS435-535 Section 1
 * Semester: 
 
 ## Overview
@@ -21,6 +21,12 @@ other items (within the two paragraph limit).
 
 Instruct the user how build, package and use your code. Does your program require user input? If
 so, what does your user need to know about it to use it as quickly as possible?
+
+## Testing
+
+Describe a concrete plan on how you tested for correctness. For example, did you use a small
+test file that you could hand check. Did you run Python scripts or write a script to generate
+results directly for a small data set  and compare with the cluster output?
 
 ## Results 
 

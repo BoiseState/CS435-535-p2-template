@@ -21,4 +21,9 @@ Design & documentation (20 points):
 
 		-Reflection comparing MapReduce performance to Spark performance is provided
 		(5 points):
+
+		-Test plan: (5 points)
+
 	-Code organization & style:
+		-The code is documented professionally:
+		-The code is readable without unreasonable effort:
